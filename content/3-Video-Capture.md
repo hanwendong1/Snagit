@@ -3,6 +3,8 @@ title: Video Capture
 nav: true
 ---
 
+You can configure a video capture by changing the settings before starting a capture.
+
 ### Selection
 
 In selection, you can choose the following capture options:

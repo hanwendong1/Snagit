@@ -3,9 +3,11 @@ title: Image Capture
 nav: true 
 ---
 
+You can configure an image capture by changing the settings before starting a capture.
+
 ### Selection
 
-In selection, you can choose the following capture options:
+In _selection_, you can choose the following capture options:
 - Region – a portion of the screen
 - Window – an open window, dialog, or area in an application on your screen
 - Fullscreen – an entire screen
@@ -16,7 +18,7 @@ In selection, you can choose the following capture options:
 
 ### Effects
 
-The chart below lists all the effects that can be applied to a captured image. You can add more than one effect at a time. You can also apply the effects in the Editor. 
+The chart below lists all the effects that can be applied to a captured image. You can add more than one effect at a time. You can also apply the effects in _Snagit Editor_. 
 
 {% include figure.html img="ImageEffects.png" alt="Image Effects" caption="Image Effects" width="75%" %}
 
