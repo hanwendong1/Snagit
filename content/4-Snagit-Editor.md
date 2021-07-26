@@ -6,11 +6,11 @@ nav: true
 
 To open the _Editor_, click **Open Editor** on the bottom right corner of Snagit. Alternatively, toggle **Preview in Editor** on will automatically open the Editor after every capture.
 
-{% include figure.html img="OpenEditor.png" alt="Open Editor" caption="Open Editor" width="100%" %}
+{% include figure.html img="OpenEditor.png" alt="Open Editor" caption="Open Editor" width="75%" %}
 
 ### Editor Interface
 
-{% include figure.html img="EditorInterface.png" alt="Editor Interface" caption="Editor Interface" width="100%" %}
+{% include figure.html img="EditorInterface.png" alt="Editor Interface" caption="Editor Interface" width="120%" %}
 
 The **library** allows you to browse and search for past captures based on date (month and year), applications, websites, or tags.
 
@@ -57,7 +57,7 @@ More tools are available when clicking the **More** dropdown in the Snagit Edito
 
 {% include figure.html img="CreateImageOrVideo.png" alt="Create Image Or Video" caption="Create Image Or Video" width="75%" %}
 
-Snagit offers two ways to quickly create images and videos for sharing information. Click **Create** next to the _Capture_ button in *Snagit Editor*. 
+Snagit offers two ways to quickly create images and videos for sharing information. Click **Create** next to the _Capture_ button in Snagit Editor. 
 - To create an image, choose **Image from Template**. Choose a template, then drag captured images to drop zones. Or, select multiple images in the recents tray, then right click and select *Combine in Template*. You can resize the images, add and swap sections, edit or delete the titles, captions, and footers. 
 - To create a video, choose **Video from Images**. Or, select multiple images in the recents tray, then right click and select *Create Video from Images*. In the recording toolbar, you can choose to change video background color, record microphone audio, show the cursor, and turn the webcam on or off. During recording, you can pause or stop the recording and use the quick styles drawing tools for annotation. After recording, you can make edits by trimming the unwanted parts.
 
@@ -66,9 +66,9 @@ Snagit offers two ways to quickly create images and videos for sharing informati
 {% include figure.html img="Share.png" alt="Share Options" caption="Share Options" width="75%" %}
 
 The **Share** button is located on the top right of Snagit Editor. The common destinations are listed below:
-- File – Use this option to save locally. You can also choose **File -> Save As…** from the _Editor_’s menu.
+- File – Use this option to save locally. You can also choose **File -> Save As…** from the Editor’s menu.
 - Clipboard – Use this option to save to the clipboard, and you can paste the saved media to another application, such at Outlook. 
 - Word – Use this option to save to an opened or new Word document, such as syllabus.
 - PowerPoint – Use this option to save to an opened or new PowerPoint slides, such as class presentation slides. 
 - OneDrive – Use this option to save to U of I’s cloud storage solution for personal use.
-- SharePoint – Use this option to save to U of I’s cloud storage solution for collaboration with colleagues and other people from U of I.
+- SharePoint – Use this option to save to U of I’s cloud storage solution for collaboration with colleagues in the college/department.

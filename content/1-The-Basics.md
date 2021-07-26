@@ -11,11 +11,11 @@ To install Snagit on your Windows-based computer, follow the steps below:
 
 Once installed, you can access Snagit in the hidden icons in the bottom right of the taskbar. 
 
+{% include figure.html img="AccessSnagit.png" alt="Access Snagit on Windows" caption="Access Snagit on Windows" width="75%" %}
+
 To install Snagit on your macOS-based computer, follow the steps below:
 
 {% include figure.html img="InstallonmacOS.png" alt="Install Snagit on macOS" caption="Install Snagit on macOS" width="75%" %}
-
-{% include figure.html img="AccessSnagit.png" alt="Access Snagit on Windows" caption="Access Snagit on Windows" width="75%" %}
 
 ### Snagit Interface
 

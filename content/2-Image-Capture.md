@@ -24,7 +24,7 @@ The chart below lists all the effects that can be applied to a captured image. Y
 
 ### Share
 
-Choose the desirable destination such as file, email, print, Word, OneDrive to share the captures. You can add more than one destination at a time.
+Choose a desirable destination such as file, email, print, Word, OneDrive to share the captures. You can add more than one destination at a time.
 
 ### Other Settings
 - **Preview in Editor** – Enable this will open the Editor after each capture. Use this function if you need to preview, edit, or share your captures.

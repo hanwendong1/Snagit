@@ -7,13 +7,13 @@ You can configure a video capture by changing the settings before starting a cap
 
 ### Selection
 
-In selection, you can choose the following capture options:
+In _selection_, you can choose the following capture options:
 - Region – a portion of the screen
 - Window – an open window, dialog, or area in an application on your screen
 
 ### Share
 
-Choose the desirable destination such as file, YouTube, OneDrive, and SharePoint to share the captures. You can add more than one destination at a time.
+Choose a desirable destination such as file, YouTube, OneDrive, and SharePoint to share the captures. You can add more than one destination at a time.
 
 ### Record Webcam
 
