@@ -38,7 +38,7 @@ More tools are available when clicking the **More** dropdown in the Snagit Edito
 - Blur – Add a blur to hide or mask sensitive information.
 - Crop – Remove unwanted areas from the edges of an image.
 - Cut Out – Delete a vertical or horizontal section out of an image and joins the two pieces together.
-- Eraser ¬– Erase any flattened area in an image to expose the canvas.
+- Eraser – Erase any flattened area in an image to expose the canvas.
 - Highlighter – Click and drag to highlight a rectangular area in an image.
 - Line (Windows Only) – Add a straight or curved line to an image.
 - Magic Wand – Select an area on the canvas based on color. The tool is ideal for selecting areas of a single color that do not include complex backgrounds or patterns.
