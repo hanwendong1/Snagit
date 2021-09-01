@@ -11,6 +11,4 @@ Check out some other Snagit-related resources below:
 - <a href="https://library.techsmith.com/snagit" target="_blank" rel="noopener noreferrer">Snagit Assets</a> (Explore both free and premium stamps, templates, themes, and photos)
 - <a href="https://support.techsmith.com/hc/en-us/articles/360050660731-Customize-the-Snagit-Hotkeys" target="_blank" rel="noopener noreferrer">Keyboard Shortcuts</a> (Note that the Hotkeys and shortcuts are for QWERTY keyboard)
 - <a href="https://support.techsmith.com/hc/en-us/community/topics" target="_blank" rel="noopener noreferrer">TechSmith User Community</a> (Have questions? Interact with TechSmith employees and other users to get answers and send your feedback)
-
-
-Below is the video recording of this workshop:
+- <a href="https://youtu.be/pRKKcvfB7Sc" target="_blank" rel="noopener noreferrer">Create Visuals for Instruction: Screen Capture with Snagit</a> (The pre-recorded video for this workshop session)
