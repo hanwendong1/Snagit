@@ -13,4 +13,6 @@ Please access the pre-recorded video for this workshop session below.
 ------
 {% include toc.html %}
 
+Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+
 {% include credits.html %}
